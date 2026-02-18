@@ -1,0 +1,5 @@
+# 🧩 8-Puzzle Solver using A* Search 
+
+This project implements an **A\* search algorithm** to solve the classic **8-puzzle problem** using the **Manhattan distance heuristic**.
+
+The 8-puzzle consists of a 3×3 grid with tiles numbered 1–8 and one empty space (0). The goal is to reach the target configuration by sliding tiles into the empty space with the minimum number of moves.
